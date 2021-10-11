@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![About Me](https://github.com/Cyvid7-Darus10/Cyvid7-Darus10/blob/master/intro.gif)
+
 <!--
 **Tatianag2/Tatianag2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
